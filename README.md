@@ -1,8 +1,18 @@
-# Striver's A2Z DSA Course Sheet
+# Striver's A2Z DSA Course Sheet 
 
-## Introduction
 
-Welcome to the Striver's A2Z DSA Course Sheet! I am referring this comprehensive guide from Striverz A2Z Sheet to master Data Structures and Algorithms (DSA) from scratch. I am using Java programming language for this. 
+This repository contains solutions to the Data Structures and Algorithms (DSA) problems covered in Striver's A2Z DSA Course. The problems are sourced from various coding sites such as Coding Ninjas, LeetCode, and more.
+
+## Table of Contents
+
+-   [About the Project](#about-the-project)
+-   [Important Topics](#important-topics) [This will be added soon]
+-   [Course Link](#course-link)
+
+## About the Repository
+
+Striver's A2Z DSA Course is a comprehensive program for mastering Data Structures and Algorithms. This repository aims to provide solutions to the problems covered in the course, making it easier for learners to understand and implement these concepts.
+
 
 ## Motive
 
