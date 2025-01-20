@@ -17,6 +17,7 @@ public class _5_WhileLoop{
             System.out.print((n * j) + " ");
         }
         System.out.println();
+        sc.close();
     }
 }
 //link: https://www.geeksforgeeks.org/problems/while-loop-printtable-java/1
