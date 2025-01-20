@@ -8,4 +8,3 @@ In this folder, we are brushing up on the basics and solving problems as per Ste
 - Problem-solving exercises
 
 Let's get started with the fundamentals and build a strong foundation in data structures and algorithms!
-Completed: 20/01/2025
