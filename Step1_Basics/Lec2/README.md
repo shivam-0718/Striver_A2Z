@@ -6,3 +6,4 @@ Understanding these patterns is crucial for developing efficient algorithms. By 
 
 By mastering patterns, you will be better prepared to tackle a wide range of DSA challenges, enhancing your problem-solving abilities and algorithmic thinking.
 
+Link: [Striverz Pattern Problems](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
