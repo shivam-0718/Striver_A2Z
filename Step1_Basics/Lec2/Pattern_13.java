@@ -15,5 +15,6 @@ public class Pattern_13 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
