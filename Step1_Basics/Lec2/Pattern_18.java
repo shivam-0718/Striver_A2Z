@@ -11,7 +11,6 @@ public class Pattern_18 {
                 System.out.print(ch);
             }
             System.out.println();
-            
         }
         sc.close();
     }
