@@ -26,7 +26,6 @@ public class Pattern_19 {
             initSpace += 2;
             System.out.println();
         }
-
         // halfdown pattern
         initSpace = 2*(n-1);
         for (int i = 1; i <= n; i++) {
@@ -47,7 +46,6 @@ public class Pattern_19 {
             initSpace -= 2;
             System.out.println();
         }
-
         sc.close();
     }
 }
