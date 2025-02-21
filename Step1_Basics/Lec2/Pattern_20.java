@@ -33,7 +33,6 @@ public class Pattern_20 {
             else
                 space += 2;
         }
-
         sc.close();
     }
 }
