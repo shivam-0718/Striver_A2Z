@@ -37,3 +37,6 @@ build/
 # Backup files
 *.bak
 *.tmp
+
+# Test files
+Step1_Basics/Lec3/*.java
