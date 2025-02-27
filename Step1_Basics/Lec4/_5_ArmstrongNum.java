@@ -22,8 +22,7 @@ public class _5_ArmstrongNum {
     }
 
     public static void main(String[] args) {
-        // link:
-        // https://www.naukri.com/code360/problems/check-armstrong_589?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+        // link: https://www.naukri.com/code360/problems/check-armstrong_589?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
 
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
