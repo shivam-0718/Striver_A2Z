@@ -3,6 +3,7 @@ package Lec4;
 import java.util.Scanner;
 
 public class _7_PrimeNumber {
+    //link: https://www.naukri.com/code360/problems/check-prime_624934?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
     public static boolean isPrime(int num) {
 		int count = 0;
 		for(int i = 1; i<= (int)Math.sqrt(num); i++){
