@@ -17,6 +17,7 @@ public class _7_ReverseArray {
     }
 
     //2 pointer approach
+    //link: https://www.geeksforgeeks.org/problems/reverse-an-array/0
     public static void reverseArray(int[] num, int length){
         int p1 = 0;
         int p2 = length - 1; //n is the length of the array
