@@ -3,7 +3,7 @@ package Lec5;
 public class _9_FibonacciNumber {
 
     //logic: fib(i) = fib(i - 1) + fib(i - 2)
-    public static void fibonacciNo(int N){
+    public static void fibonacciSeries(int N){
         int[] series = new int[N+1];
         if(N == 0){
             System.out.println(0);
@@ -45,8 +45,8 @@ public class _9_FibonacciNumber {
 
 
     public static void main(String[] args) {
-        fibonacci(5)
-        fib;
+        fibonacciSeries(10);
+        System.out.println(fibo(10));
 
     }
 }
