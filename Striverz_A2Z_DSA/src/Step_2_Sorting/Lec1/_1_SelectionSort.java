@@ -1,5 +1,4 @@
-//move the java file to Main folder to execute the code.
-package Step_2_Sorting.Lec1;
+package src.Step_2_Sorting.Lec1;
 import java.util.Scanner;
 
 public class _1_SelectionSort {
