@@ -1,4 +1,4 @@
-package src.Step_2_Sorting.Lec1;
+package src.main.java.Step_2_Sorting.Lec1;
 import java.util.Scanner;
 
 public class _1_SelectionSort {
@@ -33,4 +33,5 @@ public class _1_SelectionSort {
         }
         return arr;
     }
+    //TC: O(n^2) -> Worst, average, best
 }

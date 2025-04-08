@@ -1,4 +1,4 @@
-package Lec1;
+package src.main.java.Step_1_Basics.Lec1;
 //link: https://www.geeksforgeeks.org/problems/data-type-1666706751/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=data-type
 
 public class _1_DataTypes {
